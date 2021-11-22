@@ -18,9 +18,9 @@ We suggest to use Anaconda to obtain seamless experience when working with the E
 
 ## Authors
 
-Maryan Rizinski
-Hristijan Peshov
-Kostadin Mishev
+- Maryan Rizinski
+- Hristijan Peshov
+- Kostadin Mishev
 
 ## License
 
