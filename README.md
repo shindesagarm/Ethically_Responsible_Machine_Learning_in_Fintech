@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a collaboration between researchers from the [Faculty of Computer Science & Engineering](https://www.finki.ukim.mk/en) at the
+This project is part of a collaboration between researchers from the [Faculty of Computer Science & Engineering](https://www.finki.ukim.mk/en) at the
 Ss. Cyril and Methodius University in Skopje and [Boston University](http://www.bu.edu/).
 
 ## Features
