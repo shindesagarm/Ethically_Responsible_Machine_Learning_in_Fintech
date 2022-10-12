@@ -26,3 +26,19 @@ We suggest to use Anaconda to obtain seamless experience when working with the E
 ## License
 
 Apache License 2.0
+
+## Citation
+
+If you use this project in your research, we would appreciate a citation to the following paper:
+
+```bibtex
+@article{rizinski2022ethically,
+  title={Ethically Responsible Machine Learning in Fintech},
+  author={Rizinski, Maryan and Peshov, Hristijan and Mishev, Kostadin and Chitkushev, Lubomir T and Vodenska, Irena and Trajanov, Dimitar},
+  journal={IEEE Access},
+  volume={10},
+  pages={97531--97554},
+  year={2022},
+  publisher={IEEE}
+}
+```
